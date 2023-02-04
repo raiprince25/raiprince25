@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/raiprince25/raiprince25/blob/main/Black%20Sky%20Galaxy%20Stars%20Desktop%20Wallpaper%20(1).png)
+![MasterHead](https://github.com/raiprince25/raiprince25/blob/main/Black%20Sky%20Galaxy%20Stars%20Desktop%20Wallpaper%20(2).png)
 <h1 align="center">Hi 👋, I'm Prince Kumar Rai</h1>
 <h3 align="center">A passionate Web developer & coder from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
