@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/prince-rai-9584a423b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince rai" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prince-kumar-rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince rai" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100033203416045" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prince rai" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/raiprince25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="raiprince25" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/raiprince2025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="raiprince2025" height="30" width="40" /></a>
