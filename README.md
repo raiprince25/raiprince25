@@ -1,32 +1,102 @@
-![MasterHead](https://github.com/raiprince25/raiprince25/blob/main/Black%20Sky%20Galaxy%20Stars%20Desktop%20Wallpaper%20(2).png)
-<h1 align="center">Hi 👋, I'm Prince Kumar Rai</h1>
-<h3 align="center">A passionate Web developer & coder from India</h3>
+# 👨💻 Prince Kumar Rai  
+**Full Stack Developer | Problem Solver | Tech Enthusiast**  
+
+<div align="center">
+  <img src="https://github.com/raiprince25/raiprince25/blob/main/Black%20Sky%20Galaxy%20Stars%20Desktop%20Wallpaper%20(2).png" alt="MasterHead" width="100%">
+</div>
+
+## 🚀 About Me  
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raiprince25&label=Profile%20views&color=0e75b6&style=flat" alt="raiprince25" /> </p>
+- 🔭 **Current Focus:** Building **Software** - Next-gen platforms  
+- 🌱 **Learning:** Advanced React, Microservices & Cloud Architecture  
+- 💡 **Passionate About:** Solving complex problems with elegant code  
+- 🎯 **Goal:** Contribute to open-source & mentor aspiring developers  
+- 📫 **Reach Me:** [Email](mailto:raiprince2025@gmail.com) | [LinkedIn](https://linkedin.com/in/prince-kumar-rai)  
 
-- 🔭 I’m currently working on **HACON**
+---
 
-- 🌱 I’m currently learning **React**
+## 🛠 Tech Stack  
 
-- 💬 Ask me about **Javascript , React ,C++**
+### **Frontend**  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=white)
 
-- 📫 How to reach me **raiprince2025@gmail.com**
+### **Backend**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
+### **Databases**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
+
+### **DevOps & Cloud**  
+![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+
+### **Languages**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+
+---
+
+## 🔥 Highlights  
+
+### **Professional Experience**  
+**BOSSCODER ACADEMY** | Software Engineer Intern  
+- Built Refer & Earn system boosting revenue by **10%**  
+- Automated certificate generation saving **50+ hours/month**  
+- Developed AI chat support resolving **80% queries instantly**  
+
+**KOINBASKET** | Web Developer Intern  
+- Reduced load time by **50%** through frontend optimizations  
+- Implemented JWT authentication for secure access  
+
+### **Projects**  
+**[Interview Platform](https://github.com/raiprince25/interview-app)**  
+- Real-time polling app with Socket.IO (<200ms latency)  
+- Features: Timed sessions, moderator controls, session history  
+
+**[Crypto-Byte](https://github.com/raiprince25/crypto-tracker)**  
+- Cryptocurrency tracker with interactive Chart.js visualizations  
+- Increased user session time by **35%**  
+
+---
+
+## 📊 GitHub Stats  
+
+<div align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=raiprince25&show_icons=true&theme=radical" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=raiprince25&theme=radical" />
+  <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiprince25&layout=compact&theme=radical" />
+</div>
+
+---
+
+## 🏆 Achievements  
+- **Employee of the Month** @ BOSSCODER (Jan 2025)  
+- **HDFC Scholar Award** (₹2,00,000 grant)  
+- **LeetCode Top 10%** (700+ problems solved)  
+- **1st Place** @ INNOTECH Hackathon  
+
+---
+
+## 🌐 Connect With Me  
 <p align="left">
-<a href="https://www.linkedin.com/in/prince-kumar-rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince rai" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100033203416045" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prince rai" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/raiprince25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="raiprince25" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/raiprince2025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="raiprince2025" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/raiprince2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raiprince25" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/prince-kumar-rai" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="25">
+  </a>
+  <a href="https://leetcode.com/raiprince2" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black" height="25">
+  </a>
+  <a href="https://codeforces.com/profile/raiprince2025" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white" height="25">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raiprince25&show_icons=true&locale=en&layout=compact" alt="raiprince25" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raiprince25&show_icons=true&locale=en" alt="raiprince25" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raiprince25&" alt="raiprince25" /></p>
+---
